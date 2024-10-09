@@ -16,7 +16,9 @@ a part of your body. Each apple consumed increases your length by one block, and
 
 To play Snake you must first initialize the program. The Snake is controlled with the arrow keys.
 
-![](https://github.com/martinalvo/Hackathon/blob/main/HackAThon/Pong1.png)
+Demo:
+
+![](https://github.com/martinalvo/Hackathon/blob/main/HackAThon/Snake2.png)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Pong
@@ -28,3 +30,8 @@ other player's field. The first person to miss the ball and let it cross into th
 To play pong, first, initialize the program. The left player paddle is controlled with the W and D keys
 for up and down respectively, the right player's paddle is controlled with the arrow keys, up and down
 respectively.
+
+Demo:
+
+![](https://github.com/martinalvo/Hackathon/blob/main/HackAThon/Pong1.png)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
