@@ -16,7 +16,7 @@ a part of your body. Each apple consumed increases your length by one block, and
 
 To play Snake you must first initialize the program. The Snake is controlled with the arrow keys.
 
-![](https://github.com/pablosabaterlp/EECE2140FinalProject/blob/main/otherFiles/simulationgif.gif)
+![](https://github.com/martinalvo/Hackathon/blob/main/HackAThon/Pong1.png)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Pong
