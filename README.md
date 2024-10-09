@@ -16,6 +16,9 @@ a part of your body. Each apple consumed increases your length by one block, and
 
 To play Snake you must first initialize the program. The Snake is controlled with the arrow keys.
 
+![](https://github.com/pablosabaterlp/EECE2140FinalProject/blob/main/otherFiles/simulationgif.gif)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 # Pong
 
 Pong is a two-player game where each player controls a paddle which they must use to avoid a ball
